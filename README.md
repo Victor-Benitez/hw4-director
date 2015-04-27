@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 THIS REPOSITORY IS DEPRECATED AND WILL SOON BE DELETED.  DO NOT USE IT.
 =======================================================================
 
@@ -30,3 +31,6 @@ that has been tested with the current autograders.  That code, and ONLY
 that code, should be used as the basis of your homework assignments.
 
 Thanks - the CS169 course authors
+=======
+# hw4-director
+>>>>>>> 11cac844a4e6abeaa8773702019562480561c863
